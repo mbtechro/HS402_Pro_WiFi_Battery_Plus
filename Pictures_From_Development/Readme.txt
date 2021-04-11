@@ -1,0 +1,1 @@
+A location to store the pictures taken during the HW development.
