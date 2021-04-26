@@ -10,7 +10,7 @@ As usual, all my custom builds use a USB type B connector in order to ensure enh
 
 Development is in progress and first results related to device performance will be available soon.
 
-If you are interested of this new product you can follow the development on Telegram:
+If you are interested of this new product you can follow his development on Telegram:
 
 https://t.me/HS402_Pro_Wi_Fi_Battery_Plus
 
