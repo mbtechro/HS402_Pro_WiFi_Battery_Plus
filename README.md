@@ -21,7 +21,7 @@ Execute and finish the testing of the first batch,
 
 Caracterize the device from the performance point of view,
 
-Design freeze of the device enclosure - Model 100
+Design freeze of the device enclosure - The Model 100
 
 Design and build the tools for fast flashing and testing.
 
