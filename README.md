@@ -3,7 +3,7 @@
 
 This is my new design for an all in one HS402 PRO based oscilloscope, designed to be used either connected to your Android device either wireless via WiFi.
 
-It includes a Li-Ion battery, a battery charging circuit, and the needed protection to ensure a safe operation of the Li-Ion battery.
+It includes a Li-Ion battery, a battery charging circuit, and the needed protections to ensure a safe operation of the Li-Ion battery (both for the operator and the batery itself).
 
 As usual, all my custom builds use a USB type B connector in order to ensure enhanced robustness on the daily usage in your workshop.
 
