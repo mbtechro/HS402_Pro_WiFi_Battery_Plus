@@ -23,7 +23,7 @@ Caracterize the device from the performance point of view,
 
 Design freeze of the device enclosure,
 
-Design and build the tools for fast flashing and testing,
+Design and build the tools for fast flashing and testing.
 
 
 **Meanwhile:**
@@ -32,7 +32,9 @@ Launch a website for preorders,
 
 Build and tests first orders,
 
-Deliver first orders,
+Deliver first orders. 
+
+Get feedback ...... improve ..... continue :)
 
 
 
