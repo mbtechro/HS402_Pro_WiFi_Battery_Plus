@@ -23,7 +23,7 @@ Caracterize the device from the performance point of view,
 
 Design freeze of the device enclosure - The Model 100
 
-Design and build the tools for fast flashing and testing.
+Design and build the tools for flashing and testing.
 
 
 **Meanwhile:**
