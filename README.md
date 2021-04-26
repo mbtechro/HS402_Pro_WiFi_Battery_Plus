@@ -1,7 +1,7 @@
 # HS402_Pro_WiFi_Battery_Plus
 
 
-This is the all in one HS402 PRO based oscilloscope, designed to be used either connected to your Android device either wireless via WiFi.
+This is the all-in-one HS402 PRO-based oscilloscope, designed to be used either connected to your Android device either wireless via WiFi.
 
 It includes a Li-Ion battery, a battery charging circuit, and the needed protections to ensure a safe operation of the Li-Ion battery (both for the operator and the battery itself).
 
