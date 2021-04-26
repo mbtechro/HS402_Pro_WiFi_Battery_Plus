@@ -14,7 +14,9 @@ If you are interested of this new product you can follow the development on Tele
 
 https://t.me/HS402_Pro_Wi_Fi_Battery_Plus
 
+
 **Next steps:**
+
 Execute and finish the testing of the first batch,
 
 Caracterize the device from the performance point of view,
@@ -23,7 +25,9 @@ Design freeze of the device enclosure,
 
 Design and build the tools for fast flashing and testing,
 
+
 **Meanwhile:**
+
 Launch a website for preorders,
 
 Build and tests first orders,
